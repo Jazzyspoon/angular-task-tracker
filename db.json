@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "clean studio",
+      "day": "tomorrow",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Play with kids",
+      "day": "everyday",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Code with Devin",
+      "day": "Monday at 3pm",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
